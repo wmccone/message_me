@@ -7,6 +7,10 @@
 # Ignore bundler config.
 /.bundle
 
+# Dependency directories
+node_modules/
+jspm_packages/
+
 # Ignore the default SQLite database.
 /db/*.sqlite3
 /db/*.sqlite3-*
