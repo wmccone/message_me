@@ -23,6 +23,8 @@ gem 'semantic-ui-sass', '~> 2.4'
 # Use Active Model has_secure_password
 gem 'bcrypt', '~> 3.1.7'
 
+gem 'hirb'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
